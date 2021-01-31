@@ -7,5 +7,3 @@ args = ap.parse_args()
 
 image = cv2.imread(args.image)
 
-
-
